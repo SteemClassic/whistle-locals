@@ -1,0 +1,129 @@
+{
+	"lookup": {
+		"search": "Search",
+		"steemitUsername": "@username"
+	},
+	"tabs": {
+		"lookup": "Lookup",
+		"wallet": "My Wallet",
+		"transfers": "Transfer"
+	},
+	"splash": {
+		"signIn": "Sign in",
+		"signUp": "Sign up",
+		"loginToAccount": "Login to your account",
+		"authorizeApp": "You need to login to your account to authorize the app",
+		"username": "Username",
+		"password": "Password",
+		"login": "Login",
+		"cancel": "Cancel",
+		"steemitWalletR": "Steemit Wallet required access to do the following",
+		"accessWallet": "Access your wallet",
+		"advancedWallet": "Advanced wallet functions",
+		"authorize": "Authorize",
+		"congratulations": "Congratulations",
+		"welcomeTo": "Welcome to",
+		"verifiedAccount": "Your account has been verified with the Steemit App",
+		"continue": "Continue",
+		"wouldFingerprint": "Would you like to use your fingerprint authentication",
+		"yes": "Yes",
+		"no": "No",
+		"passText": "Now that you have authorized the app, please select a passcode",
+		"verifyPass": "Thank you! Please verify your passcode",
+		"incorrectPass": "Incorrect! Please try again",
+		"confirm": "Confirm"
+	},
+	"wallet": {
+		"totalBalance": "Total Balance",
+		"estimatedValue": "Estimated Account Value",
+		"wallet": "Wallet",
+		"overview": "Overview",
+		"history": "History",
+		"steem": "STEEM",
+		"steemPower": "Steem Power",
+		"steemDollars": "Steem Dollars",
+		"steemSavings": "STEEM Savings",
+		"steemDollarSavings": "SBD Savings",
+		"transactionDetail": "Transaction Detail",
+		"close": "Close"
+	},
+	"transfer": {
+		"submit": "Submit",
+		"approve": "Approve",
+		"cancel": "Cancel",
+		"summary": "Summary",
+		"successful": "Transaction Successful",
+		"failed": "Transaction Failed",
+		"returnToWallet": "Return to wallet",
+		"memo": "Memo",
+		"transactions": {
+			"power_up": "Power Up!",
+			"power_down": "Power Down!",
+			"transfer": "Transfer",
+			"save": "Save",
+			"withdraw": "Withdraw"
+		},
+		"power_up": {
+			"title": "POWER UP",
+			"explanation": "Amount to POWER UP",
+			"available": "%(available)s %(unit)s"
+		},
+		"power_down": {
+			"title": "POWER DOWN to %(to)s",
+			"explanation": "Amount to POWER DOWN",
+			"available": "%(available)s %(unit)s"
+		},
+		"transfer": {
+			"title": "TRANSFER %(unit)s",
+			"explanation": "Amount to TRANSFER",
+			"available": "%(available)s %(unit)s",
+			"to": "TRANSFER to"
+		},
+		"save": {
+			"title": "SAVE %(unit)s",
+			"explanation": "Amount to SAVE",
+			"available": "%(available)s %(unit)s"			
+		},
+		"withdraw": {
+			"title": "WITHDRAW %(unit)s",
+			"explanation": "Amount to WITHDRAW",
+			"available": "%(available)s %(unit)s"			
+		}
+	},
+	"units": {
+		"steem": {
+			"name": "STEEM",
+			"displayName": "%(amount)s",
+			"unit": "STEEM"
+		},
+		"steemPower": {
+			"name": "STEEM Power",
+			"displayName": "%(amount)s",
+			"unit": "STEEM"
+		},
+		"steemDollars": {
+			"name": "SBDollars",
+			"icon": "steemDollars",
+			"displayName": "$ %(amount)s",
+			"unit": "SBDollars"
+		},
+		"steemSavings": {
+			"name": "STEEM Vault",
+			"displayName": "%(amount)s",
+			"unit": "STEEM"
+		},
+		"steemDollarSavings": {
+			"name": "SBDollars Vault",
+			"displayName": "$ %(amount)s",
+			"unit": "SBDollars"
+		}
+	},
+	"verify": {
+		"reset": "Unauthorize this device",
+		"invalidPinCode": "Invalid pin code, please try again"
+	},
+	"menu": {
+		"logout": "Logout",
+		"toggleFingerprint": "Toggle Fingerprint Authentication"
+	}
+}
